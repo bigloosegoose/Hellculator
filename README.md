@@ -12,3 +12,9 @@ the reason this repo has such less commits is because I was making commits in th
 *  tap on the grey area repeatedly to cycle through the operations.
 *  repeat with numbers and operations to have your problem
 *  finally choose the "=" operation (5th option) which will evaluate and give the result
+
+## Gallery
+
+### The UI
+![image of the UI](gallery/ui.png)
+*Minimal UI lol*
